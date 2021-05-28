@@ -3,8 +3,8 @@ Front-end components using this custom [API](https://github.com/ASIMWELA/hms) to
 
 ## Setup
 #### Install dependencies
-    `cd hms`
-    `npm install`
+    cd hms
+    npm install
 
 
 
